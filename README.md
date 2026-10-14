@@ -110,10 +110,5 @@ Methods include:
 
 ---
 
-## Notes
 
-Several projects were initially developed in an academic setting and were
-subsequently refined to emphasise independent analysis, methodological clarity,
-and reproducibility. Each project includes code, empirical results, and written
-documentation describing the research question, data, modelling approach,
-evaluation strategy, and limitations.
+
